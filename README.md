@@ -1,2 +1,2 @@
 # ocular-components-modl
-Ignition Perspective components
+Ignition module with Perspective components
